@@ -84,15 +84,6 @@ This structure is ready for:
 
 ---
 
-## 🧠 Notes on Interpretation
-
-- NDVI is expected to show a **negative relationship** with PM₂.₅  
-- PBLH typically shows a **positive association** with PM₂.₅ accumulation  
-- Wind speed usually exhibits a **negative effect** due to atmospheric dispersion  
-- Grid-level analysis provides more physically meaningful results than country averages
-
----
-
 ## 🧑‍💻 Full Python Script
 
 ```python
