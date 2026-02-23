@@ -173,4 +173,4 @@ Remote Sensing Scientist & Educator
 
 ---
 
-*Empowering the next generation of geospatial analysts — one script at a time.*
+*Empowering the next generation of geospatial analysts, one script at a time.*
