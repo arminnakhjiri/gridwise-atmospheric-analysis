@@ -168,7 +168,7 @@ MIT License
 
 ## Author
 **Armin Nakhjiri**  
-Remote Sensing Scientist & Educator  
+Remote Sensing Scientist 
 ✉️ Nakhjiri.Armin@gmail.com  
 
 ---
